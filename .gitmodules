@@ -1,0 +1,3 @@
+[submodule "shared"]
+	path = src/shared
+	url = git@github.com:sonthh/gitsubmodule-learning-shared.git
