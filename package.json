@@ -1,0 +1,22 @@
+{
+  "name": "main",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonthh/gitsubmodule-learning-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonthh/gitsubmodule-learning-main/issues"
+  },
+  "homepage": "https://github.com/sonthh/gitsubmodule-learning-main#readme",
+  "dependencies": {
+    "clsx": "^2.1.1"
+  }
+}
